@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "380_footprint-lib")(type "KiCad")(uri "C:/Users/jared/Documents/GitHub/20-to-the-Top/380_footprint-lib.pretty")(options "")(descr ""))
+)
